@@ -1,0 +1,18 @@
+.home-container{
+    align-items: center;
+    color:blue;
+    background-image: url(../../../../public/images/images.jpg);
+    background-position: center;
+	background-size:auto;
+	background-repeat: no-repeat;
+    background-size: 15%;
+	flex: 1;
+	height: 100%;
+    margin: 20px;
+    
+}
+
+ul{
+    margin-left: 10px;
+}
+

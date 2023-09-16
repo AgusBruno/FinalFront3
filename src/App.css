@@ -1,0 +1,52 @@
+
+*{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.dark{
+  background-color: #8FA5BD;
+  color:rgb(48, 48, 255) ;
+}
+.footer{
+  width: 100%;
+}
+.ligth{
+  background-color: rgb(214, 214, 224);
+  color: rgb(14, 15, 24);
+}
+
+.home, .fav{
+  padding:30px;
+  text-align: center;
+}
+
+.card-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-self: center;
+}
+
+.principal{
+  width: 55%;
+  display: center;
+}
+
+.dark .principal{
+  opacity: 40%;
+}
+
+.home .fav img{
+  width: 50%;
+  
+}
+
+.dark .home img, .dark .fav img{
+  opacity: 70%;
+}
+.h2{
+  align-self: center;
+}
+.favC{
+  text-align:center;
+}
